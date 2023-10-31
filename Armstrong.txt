@@ -1,0 +1,3 @@
+Armstrong Numbers:
+153
+370
